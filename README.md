@@ -82,13 +82,7 @@ Core functionality includes:
 
 ## Gallery
 
-*Add photos of the prototype, wiring diagram, and demo here.*
-
-Example:
-
-![Prototype](images/prototype.jpg)
-
-![Circuit](images/circuit.png)
+[Watch the Demo](https://youtu.be/XXXXXXXX)
 
 ---
 
