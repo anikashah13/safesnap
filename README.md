@@ -86,7 +86,7 @@ Core functionality includes:
 
 A presentation summarizing the design, implementation, and testing of SafeSnap.
 
-📄 [View Presentation](SafeSnap_Presentation.pdf)
+📄 [View Presentation](safesnap.pdf)
 ---
 
 ## Team
