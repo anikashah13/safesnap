@@ -82,7 +82,7 @@ Core functionality includes:
 
 ## Gallery
 
-[Watch the Demo](https://youtu.be/XXXXXXXX)
+[Watch the Demo](https://www.youtube.com/watch?v=xqwiIpY-nhI)
 
 ---
 
