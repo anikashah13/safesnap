@@ -98,7 +98,7 @@ Overview of the design process, hardware architecture, implementation, and testi
 ### Prototype
 
 <p align="center">
-  <img src="images/prototype.jpg" width="500">
+  <img src="380378DF-5FF6-4707-A6F8-9C843872D2D9_1_105_c.jpeg" width="500">
 </p>
 
 *Final SafeSnap prototype.*
