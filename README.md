@@ -84,6 +84,9 @@ Core functionality includes:
 
 [Watch the Demo](https://www.youtube.com/watch?v=xqwiIpY-nhI)
 
+A presentation summarizing the design, implementation, and testing of SafeSnap.
+
+📄 [View Presentation](SafeSnap_Presentation.pdf)
 ---
 
 ## Team
