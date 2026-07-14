@@ -79,14 +79,30 @@ Core functionality includes:
 - Medication history logging
 
 ---
+## 📸 Gallery
 
-## Gallery
+🎥 **Demo Video**  
+See SafeSnap in action, including cap detection, LCD feedback, and alert behavior.
 
-[Watch the Demo](https://www.youtube.com/watch?v=xqwiIpY-nhI)
+➡️ **[Watch the Demo](https://www.youtube.com/watch?v=xqwiIpY-nhI)**
 
-A presentation summarizing the design, implementation, and testing of SafeSnap.
+---
 
-📄 [View Presentation](safesnap.pdf)
+📑 **Project Presentation**  
+Overview of the design process, hardware architecture, implementation, and testing.
+
+➡️ **[View Presentation (PDF)](safesnap.pdf)**
+
+---
+
+### Prototype
+
+<p align="center">
+  <img src="images/prototype.jpg" width="500">
+</p>
+
+*Final SafeSnap prototype.*
+
 ---
 
 ## Team
